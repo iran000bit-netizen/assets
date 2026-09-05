@@ -1,0 +1,13 @@
+{
+    "name": "USDT",
+    "type": "BEP20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "website": "https://ostad001bit.lovable.app",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x3428846A84faCB8Cf518dC35c8159E5dc4a45F1f",
+    "status": "active",
+    "id": "0x3428846A84faCB8Cf518dC35c8159E5dc4a45F1f",
+    "links": [],
+    "tags": []
+}
